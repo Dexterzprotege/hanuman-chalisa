@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hanuman-chalisa/static/css/main.b2c6516f.css",
-    "main.js": "/hanuman-chalisa/static/js/main.2a210956.js",
+    "main.js": "/hanuman-chalisa/static/js/main.471dce87.js",
     "static/js/787.392b8281.chunk.js": "/hanuman-chalisa/static/js/787.392b8281.chunk.js",
     "index.html": "/hanuman-chalisa/index.html",
     "main.b2c6516f.css.map": "/hanuman-chalisa/static/css/main.b2c6516f.css.map",
-    "main.2a210956.js.map": "/hanuman-chalisa/static/js/main.2a210956.js.map",
+    "main.471dce87.js.map": "/hanuman-chalisa/static/js/main.471dce87.js.map",
     "787.392b8281.chunk.js.map": "/hanuman-chalisa/static/js/787.392b8281.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2c6516f.css",
-    "static/js/main.2a210956.js"
+    "static/js/main.471dce87.js"
   ]
 }
