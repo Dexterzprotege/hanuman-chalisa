@@ -5,7 +5,7 @@ import styled from "styled-components";
 function Audio() {
      return (
           <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-          <AudioPlayer controls>
+          <AudioPlayer controls autoPlay>
                <source src="/hanuman-chalisa/song.mp3" type="audio/mpeg" />
           </AudioPlayer>
           </div>
