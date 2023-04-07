@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+# Hanuman Chalisa React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React-based web application for reading the Hanuman Chalisa, a Hindu devotional hymn dedicated to Lord Hanuman. The app provides an interactive interface to read the Hanuman Chalisa in both Hindi and English, along with the audio recitation.
 
-## Available Scripts
+## Getting Started
+
+To use this project, you will need to have Node.js installed on your system. If you don't have it installed, you can download and install it from the official website https://nodejs.org/.
+
+### Installation
+1. Clone this repository to your local machine using git clone https://github.com/Dexterzprotege/hanuman-chalisa.git
+2. Change into the project directory using cd hanuman-chalisa
+3. Install the required dependencies by running npm install
+4. Start the development server using npm start
+5. Open http://localhost:3000 to view the app in the browser.
+
+## Scripts
 
 In the project directory, you can run:
 
@@ -29,42 +40,17 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Usage
+Once you open the app in the browser, you will see the home page with an option to choose between Hindi or English language. Upon selecting the desired language, the corresponding Hanuman Chalisa will be displayed on the screen.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+You can read the hymn line by line, and the current line will be highlighted. The app also provides an option to play the audio recitation of the Hanuman Chalisa.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
+Contributions to this project are welcome. If you find a bug or have a feature request, please open an issue. If you would like to contribute code, please fork the repository and submit a pull request.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgments
+- This project was inspired by the spiritual significance of the Hanuman Chalisa and the desire to create a digital version of it.
+- Special thanks to the contributors of the open-source libraries used in this project, including React, Material-UI, and Howler.js.
