@@ -7,11 +7,12 @@ This is a React-based web application for reading the Hanuman Chalisa, a Hindu d
 To use this project, you will need to have Node.js installed on your system. If you don't have it installed, you can download and install it from the official website https://nodejs.org/.
 
 ### Installation
-1. Clone this repository to your local machine using git clone https://github.com/Dexterzprotege/hanuman-chalisa.git
-2. Change into the project directory using cd hanuman-chalisa
-3. Install the required dependencies by running npm install
-4. Start the development server using npm start
-5. Open http://localhost:3000 to view the app in the browser.
+1. Fork this repository to your own GitHub account by clicking the "Fork" button at the top right of the repository page.
+2. Clone this repository to your local machine using `git clone https://github.com/Dexterzprotege/hanuman-chalisa.git`
+3. Change into the project directory using `cd hanuman-chalisa`
+4. Install the required dependencies by running `npm install`
+5. Start the development server using `npm start`
+6. Open http://localhost:3000 to view the app in the browser.
 
 ## Scripts
 
